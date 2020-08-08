@@ -1,7 +1,17 @@
 # UTF-8
 
-get string
+encoding
+---------
+get u32string
 //
-encode to UTF-8
+encode it in UTF-8
 //
-save it in u32string
+return encoded string
+
+decoding
+---------
+get UTF-8 encoded string
+//
+decoding
+//
+return decoded u32string
